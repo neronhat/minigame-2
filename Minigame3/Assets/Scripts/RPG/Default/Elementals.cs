@@ -1,0 +1,1 @@
+﻿public enum element {Fire,ice,Lighting,Dark}

@@ -71,6 +71,13 @@
     <Compile Include="Assets\Scripts\Gameplay\Gameplaymanager\ManagerAll.cs" />
     <Compile Include="Assets\Scripts\Gameplay\Setting\Settingmanager.cs" />
     <Compile Include="Assets\Scripts\Music\Musicmanager.cs" />
+    <Compile Include="Assets\Scripts\RPG\Default\Elementals.cs" />
+    <Compile Include="Assets\Scripts\RPG\Enemy\RPGBoss.cs" />
+    <Compile Include="Assets\Scripts\RPG\Enemy\RPGenemy.cs" />
+    <Compile Include="Assets\Scripts\RPG\Enemy\RPGenemyparrent.cs" />
+    <Compile Include="Assets\Scripts\RPG\ManagerFloor\RPGFloor.cs" />
+    <Compile Include="Assets\Scripts\RPG\ManagerFloor\RPGmanagefloor.cs" />
+    <Compile Include="Assets\Scripts\RPG\RPGmanager.cs" />
     <Compile Include="Assets\Scripts\Share\Sharemanager.cs" />
     <Compile Include="Assets\Scripts\panel\PanelUI.cs" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
