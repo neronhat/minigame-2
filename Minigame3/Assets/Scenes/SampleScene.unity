@@ -1206,8 +1206,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   HPmax: 0
   Dmg: 0
-  ResElement: 1
-  MainElement: 2
+  ResElement: 3
+  MainElement: 4
 --- !u!1 &1103095413
 GameObject:
   m_ObjectHideFlags: 0
